@@ -1,0 +1,117 @@
+.container1{
+    background-color: rgb(64, 64, 64);
+    width:cover;
+    height:50px;
+}
+.container1{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+}
+.container2{
+    background-color: rgb(225, 223, 223);
+    width: cover;
+    height:100px;
+    color:black;
+    text-align: center;
+    margin-top:-20px;
+
+}
+.container3{
+    background-color: rgb(236, 235, 235);
+    width: cover;
+    height:200px;
+    margin-top:-20px;
+    padding-left: 5px;
+    padding-top: 5px;
+    
+}
+.boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.box{
+    border-radius: 5px;
+    margin: 20px 10px;
+    width: 200px;
+    height: 80px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 1px 1px 2px 2px;;
+}
+.about {
+    background-color: rgb(220, 224, 227);
+    width: cover;
+    height: 300px;
+    margin-top: -20px;
+    padding-left: 5px;
+    
+
+}
+ li{
+    background-color: rgb(45, 45, 250);
+    width: cover;
+    height: 35px;
+    color:white;
+    padding-left: 5px;
+ }
+.contact{
+    background-color: grey;
+    width: 420px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 550px;
+}
+.name{
+    margin-left: 40px;
+    top: 25px;
+}
+.cont{
+    margin-left: 40px;
+    padding-top: 25px;
+}
+.em{
+    margin-left: 40px;
+    padding-top: 25px;
+}
+.mes{
+    margin-left: 40px;
+    padding-top: 25px;
+}
+.contact input{
+    width: 320px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    margin-left: 40px;
+
+}
+button{
+    background-color: green;
+    height: 35px;
+    width: 320px;
+    box-shadow: 0px 0px 1px 1px white;
+    margin-left: 45px;
+}
+.last{
+    background-color: rgb(48, 48, 48);
+    width:cover;
+    height: 80px;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    
+}
+.github{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    align-items: center;
+}
+h2{
+    padding-left: 5px;
+}
